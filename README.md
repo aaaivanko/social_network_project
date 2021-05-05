@@ -32,4 +32,4 @@ after that run migrations
 
 and finally  
 
-python manage.py runserver
+> python manage.py runserver
