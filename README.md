@@ -2,9 +2,12 @@
 
 
 # General information 
-This is my project for resume. I am creating REST API for social network.  
+This is my project for resume. I am creating REST API for social network. 
+  
 To register new user: api/v1/users/signup/  
+  
 To login: api-auth/login/  
+  
 Other urls you can find in urls.py file inside the project  
 
 
