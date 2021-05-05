@@ -28,4 +28,8 @@ than install requirements
   
 after that run migrations   
   
-> python manage.py migrate
+> python manage.py migrate  
+
+and finally  
+
+python manage.py runserver
